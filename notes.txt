@@ -1,0 +1,7 @@
+--/rest/api/2/issue/createmeta?projectKeys=JRA&issuetypeNames=Bug&expand=projects.issuetypes.fields
+project=Engineering&Sprint=1886&type=Story
+ http://localhost:8080/rest/api/2/search?jql=assignee=charlie&startAt=2&maxResults=2
+#  EN-15426
+/rest/api/2/issue/EN-10025/comment
+
+/rest/greenhopper/latest/rapidviews/list?projectKey=PKY
