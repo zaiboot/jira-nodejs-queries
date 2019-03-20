@@ -1,0 +1,11 @@
+{
+  "name": "jira-issues",
+  "version": "1.0.0",
+  "description": "jira query to get comments per a set of stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edgar.madrigal",
+  "license": "ISC"
+}
